@@ -9,3 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added .Validation namespace with Validates class. Taken from BBUnityCore
+
+## [0.0.2]
+
+### Changed
+
+- Updated BBUnity Test Support to 2.1.0
