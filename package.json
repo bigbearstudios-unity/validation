@@ -22,8 +22,5 @@
   ],
   "dependencies": {
     "com.bigbearstudios.bbunity-test-support": "2.1.0"
-  },
-  "scripts": {
-    "publish": ""
   }
 }
