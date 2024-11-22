@@ -1,14 +1,14 @@
 {
   "name": "com.bigbearstudios.bbunity-validation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "BBUnity Validation",
   "description": "Validation library for Unity - Requires Unity / C# to use",
   "unity": "2018.3",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/big-bear-studios-open-source/bbunityvalidation.git"
+    "url": "https://github.com/bigbearstudios-unity/validation.git"
   },
-  "bugs": "https://gitlab.com/big-bear-studios-open-source/bbunityvalidation/-/issues",
+  "bugs": "https://github.com/bigbearstudios-unity/validation/issues",
   "author": {
     "name": "Big Bear Studios",
     "email": "development@bigbearstudios.co.uk",
@@ -21,6 +21,6 @@
     }
   ],
   "dependencies": {
-    "com.bigbearstudios.bbunity-test-support": "2.1.0"
+    "com.bigbearstudios.bbunity-test-support": "2.1.1"
   }
 }
